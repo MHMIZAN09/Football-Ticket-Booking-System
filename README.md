@@ -26,5 +26,5 @@ NULL means unknown or missing value. Since every row must have a clear identity,
 
 
 ### ERD Link (Public): https://drive.google.com/file/d/1xPVtpwkRqe9MgVSXEXCSEjBCEjBiT86V/view?usp=sharing
-### GitHub Repository Link (Public):
+### GitHub Repository Link (Public):https://github.com/MHMIZAN09/Football-Ticket-Booking-System
 ### Interview Video Link (Public): 
