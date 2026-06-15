@@ -19,12 +19,12 @@ HAVING COUNT(booking_id) > 2;
 Here, first the bookings are grouped by match_id, then the number of bookings is counted, and finally HAVING filters the result.
 
 
-### Question 3: If a Primary Key column guarantees that all row entries are completely unique, why does the database system also explicitly forbid it from containing a NULL value?
+## Question 3: If a Primary Key column guarantees that all row entries are completely unique, why does the database system also explicitly forbid it from containing a NULL value?
 A primary key is used to uniquely identify each row in a table. If a primary key contains NULL, then the database cannot properly identify that row.
 
 NULL means unknown or missing value. Since every row must have a clear identity, the primary key cannot be missing. That is why a primary key must be both unique and not null.
 
 
-# ERD Link (Public): https://drive.google.com/file/d/1xPVtpwkRqe9MgVSXEXCSEjBCEjBiT86V/view?usp=sharing
-# GitHub Repository Link (Public):
-# Interview Video Link (Public): 
+### ERD Link (Public): https://drive.google.com/file/d/1xPVtpwkRqe9MgVSXEXCSEjBCEjBiT86V/view?usp=sharing
+### GitHub Repository Link (Public):
+### Interview Video Link (Public): 
